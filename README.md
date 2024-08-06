@@ -10,7 +10,7 @@ Hyperparameters used for the main results (Figure 2):
 ```
 {'linearSensitivity': 3.5341, 'threshParam': 2.4602, 'riskParam': 0.3890, 'weight': 2}
 ```
-Hyperparameters used for correlation study (Appendix 3)
+Hyperparameters used for correlation study (Appendix C)
 ```
 {'linearSensitivity': 53.1543, 'threshParam': -1.9090, 'riskParam': 1.3713, 'weight': 2}
 ```
